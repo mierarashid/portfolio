@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-## Previous Experience
+# Previous Experience
 
 **Data Analyst** | Mesinkira Sdn. Bhd. |  _2024 - Present_
 
@@ -19,7 +19,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 **Project Management Officer** | JNJ Group Sdn. Bhd. | _2021 - 2022_
 
 
-## Projects
+# Projects
 
 ### Next-Day Rain Prediction using Machine Learning 
 
