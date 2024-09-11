@@ -18,7 +18,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 **Project Management Officer** | JNJ Group Sdn. Bhd. | _2021 - 2022_
 
+
 ## Projects
+
 ### Next-Day Rain Prediction using Machine Learning 
 
 
