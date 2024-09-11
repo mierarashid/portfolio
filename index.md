@@ -18,6 +18,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 **Project Management Officer** | JNJ Group Sdn. Bhd. | _2021 - 2022_
 
+## Projects
+### Next-Day Rain Prediction using Machine Learning 
+
+
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
