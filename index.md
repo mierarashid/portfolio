@@ -12,7 +12,6 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## Previous Experience
 **Data Analyst** | Mesinkira Sdn. Bhd. |  _2024 - Present_
-|:-------------|:------------------|:---------------------|
 
 
 
