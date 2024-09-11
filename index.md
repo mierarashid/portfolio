@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Previous Experience
+# Working Experience
 
 **Data Analyst** | Mesinkira Sdn. Bhd. |  _2024 - Present_
 
