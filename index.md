@@ -14,7 +14,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 **Data Analyst** | Mesinkira Sdn. Bhd. |  _2024 - Present_
 -----------------------------------------------------------
-
+**Special Projects Associate** | NanoMalaysia Berhad | _2022 - 2023_
+---------------------------------------------------------------------
+**Project Management Officer** | JNJ Group Sdn. Bhd. | _2021 - 2022_
 
 # Header 1
 
