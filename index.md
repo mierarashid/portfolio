@@ -23,7 +23,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ### Next-Day Rain Prediction using Machine Learning 
 
-This study utilizes SEMMA metholodogy to investigate the efficacy of machine learning techniques in predicting next-day rainfall in order to address the increasing unpredictability of weather patterns. Techniques like SMOTE and random undersampling were employed to address class imbalance, followed by training of predictive models including Support Vector Machine (SVM), Decision Tree (DT), Naive Bayes (NB), Random Forest (RF) and Logistic Regression (LR) using SAS Enterprise Miner. Analysis revealed RF outperformed other models with the highest accuracy, precision, recall and F1-score. 
+This study utilizes SEMMA metholodogy to investigate the efficacy of machine learning techniques in predicting next-day rainfall in order to address the increasing unpredictability of weather patterns.   
+Techniques like SMOTE and random undersampling were employed to address class imbalance, followed by training of predictive models including Support Vector Machine (SVM), Decision Tree (DT), Naive Bayes (NB), Random Forest (RF) and Logistic Regression (LR) using SAS Enterprise Miner.   
+Analysis revealed RF outperformed other models with the highest accuracy, precision, recall and F1-score. 
 
 ![Occurrence of RainTomorrow based on RainToday](assets/img/rain_1.png)
 
