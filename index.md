@@ -29,7 +29,7 @@ This study utilizes SEMMA metholodogy to investigate the efficacy of machine lea
 
 
 
-### Credit Card Fraud Detection 
+### Credit Card Fraud Detection
 
 
 # Header 1
