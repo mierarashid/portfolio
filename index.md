@@ -22,7 +22,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Projects
 
 <dl>
-  <dt>Next-Day Rain Prediction using Machine Learning</dt>
+  <dt>##Next-Day Rain Prediction using Machine Learning</dt>
   <dd>
     <ul>
       <li>This study utilizes SEMMA methodology to investigate the efficacy of machine learning techniques in predicting next-day rainfall to address the increasing unpredictability of weather patterns.</li>
