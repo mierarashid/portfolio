@@ -29,8 +29,7 @@ This study utilizes SEMMA metholodogy to investigate the efficacy of machine lea
 - RF outperformed other models with the highest accuracy, precision, recall and F1-score
 
 <img src="assets/img/rain_1.png" alt="Occurrence of RainTomorrow based on RainToday" width="400">
-
-
+<img src="assets/img/rain-workflow.png" alt="Model Workflow" width="400">
 
 ### Credit Card Fraud Detection
 
