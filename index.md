@@ -21,6 +21,19 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Projects
 
+<dl>
+<dt>Next-Day Rain Prediction using Machine Learning</dt>
+<dd>This study utilizes SEMMA metholodogy to investigate the efficacy of machine learning techniques in predicting next-day rainfall in order to address the increasing unpredictability of weather patterns.   
+- Predictive models - Support Vector Machine (SVM), Decision Tree (DT), Naive Bayes (NB), Random Forest (RF) and Logistic Regression (LR) using SAS Enterprise Miner 
+- RF outperformed other models with the highest accuracy, precision, recall and F1-score</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
+
 ### Next-Day Rain Prediction using Machine Learning 
 
 This study utilizes SEMMA metholodogy to investigate the efficacy of machine learning techniques in predicting next-day rainfall in order to address the increasing unpredictability of weather patterns.   
