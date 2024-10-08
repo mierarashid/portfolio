@@ -24,14 +24,14 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ### Next-Day Rain Prediction using Machine Learning 
 
 This study utilizes SEMMA metholodogy to investigate the efficacy of machine learning techniques in predicting next-day rainfall in order to address the increasing unpredictability of weather patterns.   
-- Techniques like SMOTE and random undersampling - address class imbalance
 - Predictive models - Support Vector Machine (SVM), Decision Tree (DT), Naive Bayes (NB), Random Forest (RF) and Logistic Regression (LR) using SAS Enterprise Miner 
 - RF outperformed other models with the highest accuracy, precision, recall and F1-score
 
 <img src="assets/img/rain_1.png" alt="Occurrence of RainTomorrow based on RainToday" width="350"> <img src="assets/img/rain-workflow.png" alt="Model Workflow" width="350">
 
-### Credit Card Fraud Detection
 
+### Credit Card Fraud Detection
+This project aims to develop model for credit card fraud detection with Explainable AI integration to improve model interpretability. 
 
 # Header 1
 
