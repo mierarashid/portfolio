@@ -22,10 +22,24 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Projects
 
 <dl>
-<dt>Next-Day Rain Prediction using Machine Learning</dt>
-<dd>This study utilizes SEMMA metholodogy to investigate the efficacy of machine learning techniques in predicting next-day rainfall in order to address the increasing unpredictability of weather patterns.   
-- Predictive models - Support Vector Machine (SVM), Decision Tree (DT), Naive Bayes (NB), Random Forest (RF) and Logistic Regression (LR) using SAS Enterprise Miner 
-- RF outperformed other models with the highest accuracy, precision, recall and F1-score</dd>
+  <dt>Next-Day Rain Prediction using Machine Learning</dt>
+  <dd>
+    <ul>
+      <li>This study utilizes SEMMA methodology to investigate the efficacy of machine learning techniques in predicting next-day rainfall to address the increasing unpredictability of weather patterns.</li>
+      <li>Predictive models used:
+        <ul>
+          <li>Support Vector Machine (SVM)</li>
+          <li>Decision Tree (DT)</li>
+          <li>Naive Bayes (NB)</li>
+          <li>Random Forest (RF)</li>
+          <li>Logistic Regression (LR)</li>
+        </ul>
+      </li>
+      <li>Models developed using SAS Enterprise Miner.</li>
+      <li>Random Forest (RF) outperformed other models with the highest accuracy, precision, recall, and F1-score.</li>
+    </ul>
+  </dd>
+</dl>
 <dt>Born</dt>
 <dd>1952</dd>
 <dt>Birthplace</dt>
